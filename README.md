@@ -10,8 +10,8 @@ indicating that a middle amount is not the best for this classifier however when
 
 
 When the Radius Classifier is used on the data it starts off with high accuracy just a bit lower than the original accuracy for k-values.
-# As additional radius' are used that accuracy significantly drops until it platueas downward and remains. This may indiciate it is not the most
-#favorable classifier for this particular dataset
+As additional radius' are used that accuracy significantly drops until it platueas downward and remains. This may indiciate it is not the most
+favorable classifier for this particular dataset
 
 
 K Nearest Neighbor Classifier has the highest accuracy out of both points even with its intermediate drop
